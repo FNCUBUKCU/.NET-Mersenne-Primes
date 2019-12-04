@@ -1,0 +1,6 @@
+D:\Projects\Visual Studio\source\JTS\JTS.Business\bin\Debug\JTS.Business.dll
+D:\Projects\Visual Studio\source\JTS\JTS.Business\bin\Debug\JTS.Business.pdb
+D:\Projects\Visual Studio\source\JTS\JTS.Business\obj\Debug\JTS.Business.csprojAssemblyReference.cache
+D:\Projects\Visual Studio\source\JTS\JTS.Business\obj\Debug\JTS.Business.dll
+D:\Projects\Visual Studio\source\JTS\JTS.Business\obj\Debug\JTS.Business.pdb
+D:\Projects\Visual Studio\source\JTS\JTS.Business\bin\Debug\JTS.Business.dll.config

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="JTS" Class="JTSDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=localhost;Initial Catalog=JTS;Integrated Security=True" SettingsObjectName="JTS.Business.Properties.Settings" SettingsPropertyName="JTSConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.jobs" Member="jobs">
+    <Type Name="job">
+      <Column Name="job_id" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="n" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="mac" Type="System.String" DbType="Char(12) NOT NULL" CanBeNull="false" />
+      <Column Name="assign_date" Type="System.DateTime" DbType="SmallDateTime NOT NULL" CanBeNull="false" />
+      <Column Name="status" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="complete_date" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

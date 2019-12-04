@@ -1,0 +1,12 @@
+D:\Projects\Visual Studio\source\JTS\JTS.Service\bin\JTS.Service.dll.config
+D:\Projects\Visual Studio\source\JTS\JTS.Service\bin\JTS.Service.dll
+D:\Projects\Visual Studio\source\JTS\JTS.Service\bin\JTS.Service.pdb
+D:\Projects\Visual Studio\source\JTS\JTS.Service\bin\JTS.Business.dll
+D:\Projects\Visual Studio\source\JTS\JTS.Service\bin\JTS.Contracts.dll
+D:\Projects\Visual Studio\source\JTS\JTS.Service\bin\JTS.Business.pdb
+D:\Projects\Visual Studio\source\JTS\JTS.Service\bin\JTS.Business.dll.config
+D:\Projects\Visual Studio\source\JTS\JTS.Service\bin\JTS.Contracts.pdb
+D:\Projects\Visual Studio\source\JTS\JTS.Service\obj\Debug\JTS.Service.csprojAssemblyReference.cache
+D:\Projects\Visual Studio\source\JTS\JTS.Service\obj\Debug\JTS.Service.csproj.CopyComplete
+D:\Projects\Visual Studio\source\JTS\JTS.Service\obj\Debug\JTS.Service.dll
+D:\Projects\Visual Studio\source\JTS\JTS.Service\obj\Debug\JTS.Service.pdb

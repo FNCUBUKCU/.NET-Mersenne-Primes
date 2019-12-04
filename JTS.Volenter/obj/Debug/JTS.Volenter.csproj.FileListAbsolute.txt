@@ -1,0 +1,12 @@
+D:\Projects\Visual Studio\source\JTS\JTS.Volenter\bin\Debug\JTS.Volenter.exe.config
+D:\Projects\Visual Studio\source\JTS\JTS.Volenter\bin\Debug\JTS.Volenter.exe
+D:\Projects\Visual Studio\source\JTS\JTS.Volenter\bin\Debug\JTS.Volenter.pdb
+D:\Projects\Visual Studio\source\JTS\JTS.Volenter\bin\Debug\JTS.Contracts.dll
+D:\Projects\Visual Studio\source\JTS\JTS.Volenter\bin\Debug\JTS.Contracts.pdb
+D:\Projects\Visual Studio\source\JTS\JTS.Volenter\obj\Debug\JTS.Volenter.csprojAssemblyReference.cache
+D:\Projects\Visual Studio\source\JTS\JTS.Volenter\obj\Debug\JTS.Volenter.Properties.Resources.resources
+D:\Projects\Visual Studio\source\JTS\JTS.Volenter\obj\Debug\JTS.Volenter.csproj.GenerateResource.cache
+D:\Projects\Visual Studio\source\JTS\JTS.Volenter\obj\Debug\JTS.Volenter.csproj.CopyComplete
+D:\Projects\Visual Studio\source\JTS\JTS.Volenter\obj\Debug\JTS.Volenter.exe
+D:\Projects\Visual Studio\source\JTS\JTS.Volenter\obj\Debug\JTS.Volenter.pdb
+D:\Projects\Visual Studio\source\JTS\JTS.Volenter\obj\Debug\JTS.Volenter.Form1.resources

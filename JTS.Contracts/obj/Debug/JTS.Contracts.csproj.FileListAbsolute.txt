@@ -1,0 +1,5 @@
+D:\Projects\Visual Studio\source\JTS\JTS.Contracts\bin\Debug\JTS.Contracts.dll
+D:\Projects\Visual Studio\source\JTS\JTS.Contracts\bin\Debug\JTS.Contracts.pdb
+D:\Projects\Visual Studio\source\JTS\JTS.Contracts\obj\Debug\JTS.Contracts.csprojAssemblyReference.cache
+D:\Projects\Visual Studio\source\JTS\JTS.Contracts\obj\Debug\JTS.Contracts.dll
+D:\Projects\Visual Studio\source\JTS\JTS.Contracts\obj\Debug\JTS.Contracts.pdb
